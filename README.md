@@ -1,8 +1,8 @@
-# js-lab-141
-### Lab141 Array: หาและนับจำนวนตัวอักษรที่ปรากฏ
-จงหาและนับจำนวนตัวอักษรที่ปรากฏใน str
+# js-lab-142
+### Lab142 Array: unique array element
+จงหา unique array element ของ alphabets
 
 ```JavaScript
-let str = 'I live in Thailand';
-// expected result: {i: 4, l: 2, v: 1, e:1, n: 2, t: 1, h:1, a:2, d:1}
+let alphabets = ['a', 'b', 'a', 'b', 'c', 'e', 'e', 'c', 'd', 'd', 'd', 'd'];
+// expected result: ['a', 'b', 'c', 'e', 'd']
 ```
